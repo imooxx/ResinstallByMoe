@@ -55,7 +55,7 @@ csrutil enable
 - Delete user "temp".
 
 
-# DD
+# NET Reinstall code
 ```
-bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeClub/Note/master/InstallNET.sh') -d 9 -v 64 -a
+bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/imooxx/Note/master/InstallNET.sh') -d 10 -v 64 -a
 ```
