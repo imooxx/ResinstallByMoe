@@ -53,3 +53,9 @@ csrutil enable
 - Enable SIP.
 - Login.
 - Delete user "temp".
+
+
+# DD
+```
+bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeClub/Note/master/InstallNET.sh') -d 9 -v 64 -a
+```
