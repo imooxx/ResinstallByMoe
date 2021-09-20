@@ -62,7 +62,8 @@ bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/imoox
 ```
 MoeClub.org
 ```
-#New Reinstall code
+# New Reinstall code
+
 Code Owner: https://github.com/MoeClub/Note
 ```
 1. 新增对 `Oracle AMD`，`Oracle ARM`全面支持. 可支持从 `Ubuntu`, `Oracle Linux` 等系统网络重装. 
