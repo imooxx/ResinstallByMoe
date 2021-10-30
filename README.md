@@ -104,3 +104,6 @@ Code Owner: https://github.com/MoeClub/Note
 示例:
 bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeClub/Note/master/InstallNET.sh') -d 10 -v 64 -p "自定义root密码" -port "自定义ssh端口"
 ```
+```
+-dd "引号里放dd包直链"
+```
